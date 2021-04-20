@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"name":"SEA-MIA","description":"Distance from Seattle to Miami: 3304 miles or 5317 km "},"geometry":{"type":"LineString","coordinates":[[-122.33413696289064,47.5996813120644],[-80.16534805297852,25.732952107407225]]}}]}
