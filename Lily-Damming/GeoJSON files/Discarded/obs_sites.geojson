@@ -1,0 +1,16 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.4658143328379,46.74922467857702,0]},"properties":{"name":"Roza Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.7730255735416,46.21264408801385,0]},"properties":{"name":"Prosser Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.8646493957193,47.94733560389281,0]},"properties":{"name":"Wells Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.2983421593277,47.53230236474135,0]},"properties":{"name":"Rocky Reach Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.0943859214285,47.34295627950957,0]},"properties":{"name":"Rock Island Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.2981129982822,45.93380528319428,0]},"properties":{"name":"McNary Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.5389048416284,46.56318608615175,0]},"properties":{"name":"Lower Monumental Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.8798952758902,46.24866875359033,0]},"properties":{"name":"Ice Harbor Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.0272850582422,46.58545152088997,0]},"properties":{"name":"Little Goose Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.6919762850003,45.71426467431413,0]},"properties":{"name":"John Day Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.9104688279874,46.64504809426138,0]},"properties":{"name":"Priest Rapids Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.9408837947945,45.64456865316679,0]},"properties":{"name":"Bonneville Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.1337530802167,45.6139095278822,0]},"properties":{"name":"The Dalles Dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.4277699316417,46.66180635496628,0]},"properties":{"name":"Lower Granite Dam"}}
+]}

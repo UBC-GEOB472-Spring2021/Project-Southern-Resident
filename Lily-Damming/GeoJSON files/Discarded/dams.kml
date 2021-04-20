@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[List of dams in the Columbia River watershed]]></name>
+    <open>1</open>
+    <Folder>
+        <name><![CDATA[Main stem Columbia River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Mica Dam]]></name>
+            <Point>
+                <coordinates>-118.566388888889,52.0775,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BC_Hydro_2014_5-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Revelstoke Dam]]></name>
+            <Point>
+                <coordinates>-118.193333333333,51.0491666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BC_Hydro_2014_5-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Keenleyside Dam]]></name>
+            <Point>
+                <coordinates>-117.771666666667,49.3383333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-cbtHydroPowerDams_8-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Grand Coulee Dam]]></name>
+            <Point>
+                <coordinates>-118.9775,47.9572222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CouleeStats_9-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Chief Joseph Dam]]></name>
+            <Point>
+                <coordinates>-119.638611111111,47.995,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-12">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Wells Dam]]></name>
+            <Point>
+                <coordinates>-119.864166666667,47.9472222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-14">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rocky Reach Dam]]></name>
+            <Point>
+                <coordinates>-120.294722222222,47.5330555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-16">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rock Island Dam]]></name>
+            <Point>
+                <coordinates>-120.094444444444,47.3425,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-18">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Wanapum Dam]]></name>
+            <Point>
+                <coordinates>-119.970277777778,46.8777777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-GrantPUD_20-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Priest Rapids Dam]]></name>
+            <Point>
+                <coordinates>-119.91,46.6441666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-22">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[McNary Dam]]></name>
+            <Point>
+                <coordinates>-119.298055555556,45.9352777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-24">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[John Day Dam]]></name>
+            <Point>
+                <coordinates>-120.693611111111,45.7158333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-25">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[The Dalles Dam]]></name>
+            <Point>
+                <coordinates>-121.133888888889,45.6138888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-26">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bonneville Dam]]></name>
+            <Point>
+                <coordinates>-121.940833333333,45.645,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-28">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Snake River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Jackson Lake Dam]]></name>
+            <Point>
+                <coordinates>-110.59,43.8583333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-JacksonLakeDam_30-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Palisades Dam]]></name>
+            <Point>
+                <coordinates>-111.203333333333,43.3330555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-PalisadesDam_32-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Gem State Dam]]></name>
+            <Point>
+                <coordinates>-112.102222222222,43.4219444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-33">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[American Falls Dam]]></name>
+            <Point>
+                <coordinates>-112.876388888889,42.7786111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MinidokaProject_35-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Minidoka Dam]]></name>
+            <Point>
+                <coordinates>-113.484166666667,42.6694444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MinidokaDam_37-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Milner Dam]]></name>
+            <Point>
+                <coordinates>-114.009722222222,42.525,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-IdahoPower_39-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Twin Falls Dam]]></name>
+            <Point>
+                <coordinates>-114.355555555556,42.5891666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-IdahoPowerPlants_41-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shoshone Falls Dam]]></name>
+            <Point>
+                <coordinates>-114.401111111111,42.5963888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ShoshoneProject_44-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Upper Salmon Falls Dam]]></name>
+            <Point>
+                <coordinates>-114.895833333333,42.7663888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-IdahoPower_39-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lower Salmon Falls Dam]]></name>
+            <Point>
+                <coordinates>-114.915,42.8416666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-IdahoPower_39-4">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bliss Dam]]></name>
+            <Point>
+                <coordinates>-115.071111111111,42.9136111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-IdahoPower_39-6">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[C. J. Strike Dam]]></name>
+            <Point>
+                <coordinates>-115.975277777778,42.9475,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-AboutCJStrike_48-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Swan Falls Dam]]></name>
+            <Point>
+                <coordinates>-116.379444444444,43.2430555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-51">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Brownlee Dam]]></name>
+            <Point>
+                <coordinates>-116.900833333333,44.8369444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BrownleeDam_53-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Oxbow Dam]]></name>
+            <Point>
+                <coordinates>-116.835277777778,44.9708333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-56">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hells Canyon Dam]]></name>
+            <Point>
+                <coordinates>-116.701388888889,45.2427777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-58">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lower Granite Dam]]></name>
+            <Point>
+                <coordinates>-117.428055555556,46.6611111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-60">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Little Goose Dam]]></name>
+            <Point>
+                <coordinates>-118.027777777778,46.5869444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-64">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lower Monumental Dam]]></name>
+            <Point>
+                <coordinates>-118.538888888889,46.5633333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-66">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ice Harbor Dam]]></name>
+            <Point>
+                <coordinates>-118.879722222222,46.2494444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-68">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Little Salmon River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Goose Lake Dam]]></name>
+            <Point>
+                <coordinates>-116.169166666667,45.0702777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-GooseCr_70-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Brundage Dam]]></name>
+            <Point>
+                <coordinates>-116.131388888889,45.0416666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Brundage_71-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Owyhee River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Wild Horse Dam]]></name>
+            <Point>
+                <coordinates>-115.845277777778,41.6872222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-73">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Antelope Reservoir Dam]]></name>
+            <Point>
+                <coordinates>-117.23,42.9,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Antelope_77-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Owyhee Dam]]></name>
+            <Point>
+                <coordinates>-117.2425,43.6419444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-81">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[South Fork Owyhee River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Wilson Reservoir Dam]]></name>
+            <Point>
+                <coordinates>-116.34,41.67,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-WilsonRes_82-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bull Run Dam]]></name>
+            <Point>
+                <coordinates>-116.15,41.64,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BullRun_83-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dry Creek Dam]]></name>
+            <Point>
+                <coordinates>-116.23,41.79,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-DryCr_84-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rawhide Reservoir Dam]]></name>
+            <Point>
+                <coordinates>-116.34,41.71,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Rawhide_85-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sheep Creek Dam]]></name>
+            <Point>
+                <coordinates>-116.27,41.86,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-SheepCrNV_86-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Chimney Creek Dam]]></name>
+            <Point>
+                <coordinates>-116.54,41.71,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ChimneyCr_87-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Malheur River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Warm Springs Dam]]></name>
+            <Point>
+                <coordinates>-118.208611111111,43.5852777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-WarmSpringsPwr_90-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Agency Valley Dam]]></name>
+            <Point>
+                <coordinates>-118.154166666667,43.9113888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-AgencyValleyPwr_92-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Harper Diversion]]></name>
+            <Point>
+                <coordinates>-117.642222222222,43.8247222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ValeProject_89-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bully Creek Dam]]></name>
+            <Point>
+                <coordinates>-117.396666666667,44.0152777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BullyCr_93-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bully Creek Diversion]]></name>
+            <Point>
+                <coordinates>-117.384166666667,44.0030555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ValeProject_89-4">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Willow Creek Reservoir #3 Dam]]></name>
+            <Point>
+                <coordinates>-117.671111111111,44.3530555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-WillowCrOR_94-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Wallowa River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Wallowa Lake Dam]]></name>
+            <Point>
+                <coordinates>-117.22,45.33,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-WallowaLake_95-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Powder River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Mason Dam]]></name>
+            <Point>
+                <coordinates>-117.99,44.67,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MasonPwr_98-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Thief Valley Dam]]></name>
+            <Point>
+                <coordinates>-117.77,45.01,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ThiefValley_99-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Blackfoot River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Blackfoot Dam]]></name>
+            <Point>
+                <coordinates>-111.71,43,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BlackfootBLM_100-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Henrys Fork dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Henrys Lake Dam]]></name>
+            <Point>
+                <coordinates>-111.35,44.59,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Henrys_102-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Island Park Dam]]></name>
+            <Point>
+                <coordinates>-111.39,44.42,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MinidokaProject_35-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Buffalo River Dam]]></name>
+            <Point>
+                <coordinates>-111.392777777778,44.4144444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BuffaloR_104-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ashton Dam]]></name>
+            <Point>
+                <coordinates>-111.49,44.07,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-AshtonDam_105-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Chester Dam]]></name>
+            <Point>
+                <coordinates>-111.58,44.01,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ChesterDam_108-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Fall River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Grassy Lake Dam]]></name>
+            <Point>
+                <coordinates>-110.81,44.13,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MinidokaProject_35-3">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Portneuf River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Portneuf Dam]]></name>
+            <Point>
+                <coordinates>-111.94,42.87,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Portneuf_110-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Salmon Falls Creek dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Salmon Falls Dam]]></name>
+            <Point>
+                <coordinates>-114.73,42.21,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-SalmonFallsCr_111-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cedar Creek Dam]]></name>
+            <Point>
+                <coordinates>-114.87,42.22,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CedarCr_112-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Boise River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Arrowrock Dam]]></name>
+            <Point>
+                <coordinates>-115.92,43.6,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BoiseProject_114-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lucky Peak Dam]]></name>
+            <Point>
+                <coordinates>-116.05,43.52,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LuckyPeakACE_116-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Boise River Diversion Dam]]></name>
+            <Point>
+                <coordinates>-116.09,43.53,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BoiseProject_114-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Barber Dam]]></name>
+            <Point>
+                <coordinates>-116.12,43.57,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BarberENEL_119-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[South Fork Boise River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Anderson Ranch Dam]]></name>
+            <Point>
+                <coordinates>-115.44,43.36,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BoiseProject_114-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Little Camas Dam]]></name>
+            <Point>
+                <coordinates>-115.38,43.35,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LittleCamas_121-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Goose Creek dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Oakley Dam]]></name>
+            <Point>
+                <coordinates>-113.91,42.19,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Oakley_122-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Weiser River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Lost Valley Dam]]></name>
+            <Point>
+                <coordinates>-116.467222222222,44.9563888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LostValley_123-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[C Ben Ross Dam]]></name>
+            <Point>
+                <coordinates>-116.44,44.52,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BenRoss_124-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Crane Creek Dam]]></name>
+            <Point>
+                <coordinates>-116.61,44.35,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CraneCr_125-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mann Creek Dam]]></name>
+            <Point>
+                <coordinates>-116.89,44.39,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MannProject_127-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Burnt River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Unity Dam]]></name>
+            <Point>
+                <coordinates>-118.18,43.5,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-UnityPwr_130-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Willow Creek dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Ririe Dam]]></name>
+            <Point>
+                <coordinates>-111.74,43.58,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-RirieProject_131-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Payette River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Black Canyon Diversion Dam]]></name>
+            <Point>
+                <coordinates>-116.48,43.88,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BoiseProject_114-3">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[North Fork Payette River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Upper Payette Lake Dam]]></name>
+            <Point>
+                <coordinates>-116.026388888889,45.1111111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-UpperPayette_134-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Granite Lake Dam]]></name>
+            <Point>
+                <coordinates>-116.080833333333,45.1005555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-GraniteLk_135-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Payette Lake Dam]]></name>
+            <Point>
+                <coordinates>-116.11,44.91,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-PayetteLk_136-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Little Payette Lake Dam]]></name>
+            <Point>
+                <coordinates>-116.04,44.9,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LtlPayetteLk_137-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cascade Dam]]></name>
+            <Point>
+                <coordinates>-116.05,44.52,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BoiseProject_114-4">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sage Hen Dam]]></name>
+            <Point>
+                <coordinates>-116.19,44.32,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-SageHen_139-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Paddock Valley Dam]]></name>
+            <Point>
+                <coordinates>-116.59,44.19,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Paddock_140-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[South Fork Payette River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Deadwood Dam]]></name>
+            <Point>
+                <coordinates>-115.64,44.29,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BoiseProject_114-5">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[North Fork Clearwater River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Dworshak Dam]]></name>
+            <Point>
+                <coordinates>-116.3,46.5,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-dw717_142-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Malad River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Malad Gorge]]></name>
+            <Point>
+                <coordinates>-114.876388888889,42.8577777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MaladGorgePowerFlume_143-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Big Wood River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Magic Dam]]></name>
+            <Point>
+                <coordinates>-114.37,43.25,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-FWEEMagic_145-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Camas Creek]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Mormon Dam]]></name>
+            <Point>
+                <coordinates>-114.8,43.28,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-MormonDam_146-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Little Wood River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Little Wood Dam]]></name>
+            <Point>
+                <coordinates>-114.02,43.42,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LtlWoodProject_148-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Fish Creek Dam]]></name>
+            <Point>
+                <coordinates>-114.83,43.42,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-FishCreek_149-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Kootenay River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Libby Dam]]></name>
+            <Point>
+                <coordinates>-115.314444444444,48.4102777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-151">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Corra Linn Dam]]></name>
+            <Point>
+                <coordinates>-117.467222222222,49.4677777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-FortisBC_153-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Upper Bonnington Falls Dam]]></name>
+            <Point>
+                <coordinates>-117.484166666667,49.4597222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-cbtHydroPowerDams_8-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lower Bonnington Falls Dam]]></name>
+            <Point>
+                <coordinates>-117.499722222222,49.4608333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-cbtHydroPowerDams_8-3">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[South Slocan Dam]]></name>
+            <Point>
+                <coordinates>-117.519722222222,49.4555555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-cbtHydroPowerDams_8-5">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kootenay Canal Generating Station]]></name>
+            <Point>
+                <coordinates>-117.517222222222,49.4527777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-cbtHydroPowerDams_8-7">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Brilliant Dam]]></name>
+            <Point>
+                <coordinates>-117.62,49.3247222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Brilliant_160-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Bull River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Aberfeldie Dam]]></name>
+            <Point>
+                <coordinates>-115.350833333333,49.4994444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-162">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Elk River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Elko Dam]]></name>
+            <Point>
+                <coordinates>-115.104444444444,49.29,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-bchydro_164-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Duncan River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Duncan Dam]]></name>
+            <Point>
+                <coordinates>-116.946388888889,50.25,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-165">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Mark Creek dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Upper Mark Creek Dam]]></name>
+            <Point>
+                <coordinates>-116.0425,49.71,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-166">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Pend Oreille River / Clark Fork River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Thompson Falls Dam]]></name>
+            <Point>
+                <coordinates>-115.350833333333,47.5911111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NorthwesternEnrgy_173-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Noxon Rapids Dam]]></name>
+            <Point>
+                <coordinates>-115.733611111111,47.9608333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-AvistaApp_175-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cabinet Gorge Dam]]></name>
+            <Point>
+                <coordinates>-116.0575,48.0855555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-60th_178-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Albeni Falls Dam]]></name>
+            <Point>
+                <coordinates>-116.999722222222,48.18,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ItsHappening_174-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Box Canyon Dam]]></name>
+            <Point>
+                <coordinates>-117.412777777778,48.7802777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-BoxPwr_180-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Boundary Dam]]></name>
+            <Point>
+                <coordinates>-117.348055555556,48.9869444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ItsHappening_174-5">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Seven Mile Dam]]></name>
+            <Point>
+                <coordinates>-117.503611111111,49.0302777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ColumbiaRiverSystem_182-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Waneta Dam]]></name>
+            <Point>
+                <coordinates>-117.611666666667,49.0038888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-184">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Flathead River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Hungry Horse Dam]]></name>
+            <Point>
+                <coordinates>-114.013055555556,48.3411111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-189">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Seli’š Ksanka Qlispe’ Dam]]></name>
+            <Point>
+                <coordinates>-114.233888888889,47.6772222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-192">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Deschutes River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Crane Prairie Dam]]></name>
+            <Point>
+                <coordinates>-121.785,43.755,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-DeschutesProject_194-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Wickiup Dam]]></name>
+            <Point>
+                <coordinates>-121.703888888889,43.6952777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-DeschutesProject_194-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Round Butte Dam]]></name>
+            <Point>
+                <coordinates>-121.27,44.6,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-RoundButtePrjct_195-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pelton Dam]]></name>
+            <Point>
+                <coordinates>-121.23,44.69,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-RoundButtePrjct_195-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pelton Reregulating Dam]]></name>
+            <Point>
+                <coordinates>-121.24,44.72,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-RoundButtePrjct_195-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Yakima River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Keechelus Dam]]></name>
+            <Point>
+                <coordinates>-121.339444444444,47.3222222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Easton Diversion Dam]]></name>
+            <Point>
+                <coordinates>-121.188055555556,47.2416666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Unnamed Dam]]></name>
+            <Point>
+                <coordinates>-120.6525,47.0638888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-202">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Roza Dam]]></name>
+            <Point>
+                <coordinates>-120.465555555556,46.7488888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-203">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Wapato Dam]]></name>
+            <Point>
+                <coordinates>-120.476944444444,46.5241666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-205">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sunnyside Dam]]></name>
+            <Point>
+                <coordinates>-120.444722222222,46.4977777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Prosser Dam]]></name>
+            <Point>
+                <coordinates>-119.772777777778,46.2125,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-ProsserDam_207-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Horn Rapids/Wannawish Dam]]></name>
+            <Point>
+                <coordinates>-119.417222222222,46.3786111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-WannawishDam_208-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Cle Elum River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Cle Elum Dam]]></name>
+            <Point>
+                <coordinates>-121.073055555556,47.2469444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-3">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Kachess River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Kachess Dam]]></name>
+            <Point>
+                <coordinates>-121.2025,47.2647222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-4">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Bumping River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Bumping Lake Dam]]></name>
+            <Point>
+                <coordinates>-121.299444444444,46.8711111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-5">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Tieton River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Clear Lake Dam]]></name>
+            <Point>
+                <coordinates>-121.270833333333,46.6277777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-6">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tieton Dam]]></name>
+            <Point>
+                <coordinates>-121.128055555556,46.6572222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NoHydropower_200-7">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Willamette River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Willamette Falls Dam]]></name>
+            <Point>
+                <coordinates>-122.617777777778,45.3530555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-210">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Santiam River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Big Cliff Dam]]></name>
+            <Point>
+                <coordinates>-122.283055555556,44.7508333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NSantiam_211-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Detroit Dam]]></name>
+            <Point>
+                <coordinates>-122.250277777778,44.7216666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NSantiam_211-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Foster Dam]]></name>
+            <Point>
+                <coordinates>-122.670277777778,44.4152777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-SSantiam_212-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Green Peter Dam]]></name>
+            <Point>
+                <coordinates>-122.549166666667,44.45,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-SSantiam_212-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Middle Fork Willamette River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Hills Creek Dam]]></name>
+            <Point>
+                <coordinates>-122.423888888889,43.7091666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-HillsCreek_213-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lookout Point Dam]]></name>
+            <Point>
+                <coordinates>-122.7525,43.9133333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LookoutPoint_214-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Fall Creek Dam]]></name>
+            <Point>
+                <coordinates>-122.756944444444,43.9136111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-FallCreek_215-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dexter Dam]]></name>
+            <Point>
+                <coordinates>-122.806388888889,43.9227777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LookoutPoint_214-4">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[McKenzie River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Carmen Diversion Dam]]></name>
+            <Point>
+                <coordinates>-122.003055555556,44.3386111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CarmenSmith_217-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Trail Bridge Dam]]></name>
+            <Point>
+                <coordinates>-122.050555555556,44.2733333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CarmenSmith_217-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Smith Dam]]></name>
+            <Point>
+                <coordinates>-122.11,44,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CarmenSmith_217-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cougar Dam]]></name>
+            <Point>
+                <coordinates>-122.241666666667,44.1288888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CougarLake_221-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Blue River Dam]]></name>
+            <Point>
+                <coordinates>-122.329722222222,44.1730555555555,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CougarLake_221-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Leaburg Dam]]></name>
+            <Point>
+                <coordinates>-122.611944444444,44.1375,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Leaburg-Walterville_223-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Walterville Dam]]></name>
+            <Point>
+                <coordinates>-122.83,44.06,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Leaburg-Walterville_223-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Coast Fork Willamette River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Cottage Grove Dam]]></name>
+            <Point>
+                <coordinates>-123.050833333333,43.7161111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CottageGrove_225-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dorena Dam]]></name>
+            <Point>
+                <coordinates>-122.95,43.78,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-DorenaPower_226-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Spokane River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Post Falls Hyrdoelectric Development]]></name>
+            <Point>
+                <coordinates>-116.953611111111,47.7086111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-PostFalls_227-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Upright Dam]]></name>
+            <Point>
+                <coordinates>-117.328611111111,47.6858333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-CityofSpokane_228-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Upper Falls Dam]]></name>
+            <Point>
+                <coordinates>-117.415277777778,47.6627777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-UpperFalls_230-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Monroe Street Dam]]></name>
+            <Point>
+                <coordinates>-117.425277777778,47.6616666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Monroe_231-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Nine Mile Dam]]></name>
+            <Point>
+                <coordinates>-117.543888888889,47.775,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-NineMile_232-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Long Lake Dam]]></name>
+            <Point>
+                <coordinates>-117.839722222222,47.8372222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LongLake_233-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Little Falls Dam]]></name>
+            <Point>
+                <coordinates>-117.917777777778,47.8325,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-235">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Cowlitz River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Cowlitz Falls Dam]]></name>
+            <Point>
+                <coordinates>-122.109166666667,46.4663888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Cow_238-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mossyrock Dam]]></name>
+            <Point>
+                <coordinates>-122.424722222222,46.5344444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Mossy_239-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mayfield Dam]]></name>
+            <Point>
+                <coordinates>-122.588333333333,46.5027777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-May_240-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Lewis River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Swift Dam]]></name>
+            <Point>
+                <coordinates>-122.21,46.08,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LewisRPacificPower_241-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Swift No. 2 Dam]]></name>
+            <Point>
+                <coordinates>-122.197777777778,46.0627777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Swift2_243-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Yale Dam]]></name>
+            <Point>
+                <coordinates>-122.34,45.98,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LewisRPacificPower_241-2">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Merwin Dam]]></name>
+            <Point>
+                <coordinates>-122.48,45.99,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-LewisRPacificPower_241-3">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Spillimacheen River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Spillimacheen Dam]]></name>
+            <Point>
+                <coordinates>-116.424444444444,50.8988888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-246">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Wenatchee River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Tumwater Canyon Dam]]></name>
+            <Point>
+                <coordinates>-120.722777777778,47.6163888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-TumCanyon_248-0">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Chelan River dams]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Lake Chelan Dam]]></name>
+            <Point>
+                <coordinates>-120.0125,47.8344444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed#cite_ref-Chelan_249-1">List of dams in the Columbia River watershed</a>]]></description>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>

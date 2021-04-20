@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"       
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <atom:author>             
+      <atom:name>Columbia Basin Research - University of Washington</atom:name>         
+    </atom:author>         
+    <atom:link href="http://www.cbr.washington.edu" />
+    <name>Hydroelectric Projects</name>
+    <description>Columbia basin hydroelectric projects in KML format provided by Columbia Basin Research - SAFS - University of Washington</description>
+    <Placemark>
+    	<name>Roza Dam</name>
+    	<LookAt>
+    		<longitude>-120.4658914771457</longitude>
+    		<latitude>46.74925189782999</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-120.4658143328379,46.74922467857702,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Prosser Dam</name>
+    	<LookAt>
+    		<longitude>-119.7733752684957</longitude>
+    		<latitude>46.21239888973082</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-119.7730255735416,46.21264408801385,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Wells Dam</name>
+    	<LookAt>
+    		<longitude>-119.8581111531257</longitude>
+    		<latitude>47.94854189158313</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-119.8646493957193,47.94733560389281,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Rocky Reach Dam</name>
+    	<LookAt>
+    		<longitude>-120.29843227201</longitude>
+    		<latitude>47.53204302033952</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-120.2983421593277,47.53230236474135,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Rock Island Dam</name>
+    	<LookAt>
+    		<longitude>-120.0903400370666</longitude>
+    		<latitude>47.34160816137359</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-120.0943859214285,47.34295627950957,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>McNary Dam</name>
+    	<LookAt>
+    		<longitude>-119.2972168901068</longitude>
+    		<latitude>45.93626927470972</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-119.2981129982822,45.93380528319428,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Lower Monumental Dam</name>
+    	<LookAt>
+    		<longitude>-118.5386418962178</longitude>
+    		<latitude>46.56318136223215</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-118.5389048416284,46.56318608615175,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Ice Harbor Dam</name>
+    	<LookAt>
+    		<longitude>-118.8818409561473</longitude>
+    		<latitude>46.2480755257704</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-118.8798952758902,46.24866875359033,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Little Goose Dam</name>
+    	<LookAt>
+    		<longitude>-118.0254562759239</longitude>
+    		<latitude>46.58504282329368</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-118.0272850582422,46.58545152088997,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>John Day Dam</name>
+    	<LookAt>
+    		<longitude>-120.6900384896889</longitude>
+    		<latitude>45.71568001196737</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-120.6919762850003,45.71426467431413,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Priest Rapids Dam</name>
+    	<LookAt>
+    		<longitude>-119.9102285047018</longitude>
+    		<latitude>46.64031266057632</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-119.9104688279874,46.64504809426138,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Bonneville Dam</name>
+    	<LookAt>
+    		<longitude>-121.9385292701574</longitude>
+    		<latitude>45.64542796762205</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-121.9408837947945,45.64456865316679,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>The Dalles Dam</name>
+    	<LookAt>
+    		<longitude>-121.1269045138912</longitude>
+    		<latitude>45.6141686666318</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-121.1337530802167,45.6139095278822,0</coordinates>
+    	</Point>
+    </Placemark>
+    <Placemark>
+    	<name>Lower Granite Dam</name>
+    	<LookAt>
+    		<longitude>-117.4277565757321</longitude>
+    		<latitude>46.66028122800652</latitude>
+    	</LookAt>
+    	<Point>
+    		<coordinates>-117.4277699316417,46.66180635496628,0</coordinates>
+    	</Point>
+    </Placemark>
+</Document>
+</kml>
