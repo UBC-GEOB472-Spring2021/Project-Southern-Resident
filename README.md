@@ -2,7 +2,7 @@
 ## Part 1: A Dam of a Problem in the Columbia River Basin
 https://29523.github.io/killerwhales/
 
-![Part1]gifs/part 1 gif.gif
+![Part1](https://github.com/UBC-GEOB472-Spring2021/Project-Southern-Resident/blob/4f5fd3e4c1f85f07e9d953e531c57ffd9a053a9a/gifs/part%201%20gif.gif)
 
 ## Part 2: How and Where Boats Impact the Southern Resident Killer Whales
 https://leskojosh000.github.io/ShipImpactsSRKW/
