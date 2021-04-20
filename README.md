@@ -1,4 +1,6 @@
 # Project-Southern-Resident
+Project Essay: Please refer to the PDF file called "The Plight of the Southern Residents - Final Essay"
+
 ## Part 1: A Dam of a Problem in the Columbia River Basin
 https://29523.github.io/killerwhales/
 
