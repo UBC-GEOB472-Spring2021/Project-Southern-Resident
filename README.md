@@ -7,5 +7,7 @@ https://29523.github.io/killerwhales/
 ## Part 2: How and Where Boats Impact the Southern Resident Killer Whales
 https://leskojosh000.github.io/ShipImpactsSRKW/
 
+![Part2](https://github.com/UBC-GEOB472-Spring2021/Project-Southern-Resident/blob/59fde21b0dacf9b08e1c9d9149ba525f95a6046f/gifs/part%202%20gif.gif)
+
 ## Part 3: Southern Residents in Captivity
 https://blagee.github.io/southernresidents/
