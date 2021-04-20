@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"name":"SEA-SD","description":"Distance from Seattle to San Diego: Roughly 1255 miles or 2020 km"},"geometry":{"type":"LineString","coordinates":[[-122.33551025390625,47.60431120244565],[-117.16232299804688,32.7168216845144]]}}]}
